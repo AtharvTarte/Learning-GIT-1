@@ -1,2 +1,2 @@
 # Learning-Git-1
-Learning Git
+This is my repo of Learning-GIT
